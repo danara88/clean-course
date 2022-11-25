@@ -33,6 +33,11 @@
     "esbuild-windows-64" "0.14.25"
     "esbuild-windows-arm64" "0.14.25"
 
+"fsevents@~2.3.2":
+  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA== sha1-ilJveLj99GI7cJ4Ll1xSwkwC/Ro="
+  "resolved" "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/fsevents/-/fsevents-2.3.2.tgz"
+  "version" "2.3.2"
+
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A== sha1-pWiZ0+o8m6uHS7l3O3xe3pL0iV0="
   "resolved" "https://artifactory.spectrumtoolbox.com/artifactory/api/npm/npm/function-bind/-/function-bind-1.1.1.tgz"
